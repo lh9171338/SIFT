@@ -3,14 +3,14 @@
 
 # 2. Usage
 ## 2.1 Environment
->>OS: Windows 10
+>>OS: Windows 10  
 >>IDE: Matlab 2017a
 
 ## 2.2 Run
->>Run test.m.
+>>Run test.m with Matlab.
 
 ## 2.3 Result
-![image](https://github.com/lh9171338/SIFT/blob/master/image/image_result.jpg)
+![image](https://github.com/lh9171338/SIFT/blob/master/image/image_result.jpg)  
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)
 
 # 3. More resources
