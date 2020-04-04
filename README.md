@@ -1,5 +1,5 @@
 # 1. Introduction
->>This depository is SIFT algorithm implemented by Matlab.
+>>This repository is SIFT algorithm implemented by Matlab.
 
 # 2. Usage
 ## 2.1 Environment
@@ -14,5 +14,5 @@
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)
 
 # 3. More resources
-- [Github link](https://github.com/lh9171338/Outline)
+- [Github Link](https://github.com/lh9171338/Outline)
 - [Paper: Distinctive Image Featuresfrom Scale-Invariant Keypoints](https://link.springer.com/content/pdf/10.1023%2FB%3AVISI.0000029664.99615.94.pdf)
