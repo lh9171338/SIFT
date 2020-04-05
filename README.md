@@ -17,4 +17,4 @@
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)
 
 # 3. More resources
-- [Paper: Distinctive Image Featuresfrom Scale-Invariant Keypoints](https://link.springer.com/content/pdf/10.1023%2FB%3AVISI.0000029664.99615.94.pdf)
+- Paper: [Distinctive Image Featuresfrom Scale-Invariant Keypoints](https://link.springer.com/content/pdf/10.1023%2FB%3AVISI.0000029664.99615.94.pdf)
