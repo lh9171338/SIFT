@@ -2,7 +2,7 @@
 ===
 
 # 1. Introduction
->>This repository is original SIFT algorithm implemented by Matlab.
+>>This repository is the original SIFT algorithm implemented by Matlab.
 
 # 2. Usage
 ## 2.1 Run
