@@ -1,16 +1,17 @@
-[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) SIFT
-===
+# SIFT
+SIFT algorithm implemented by MATLAB
 
-# 1. Introduction
->>This repository is original SIFT algorithm implemented by Matlab.
+# Environment
+OS: Windows 10  
+IDE: Matlab 2017a
 
-# 2. Usage
-## 2.1 Run
->>Run test.m with Matlab.
+# Run
+Run test.m
 
-## 2.2 Result
+# Some results
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/image_result.jpg)  
-![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)
+![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)  
 
-# 3. More resources
-- Paper: [Distinctive Image Featuresfrom Scale-Invariant Keypoints](https://link.springer.com/content/pdf/10.1023%2FB%3AVISI.0000029664.99615.94.pdf)
+# More resources
+Paper link:  
+https://link.springer.com/content/pdf/10.1023%2FB%3AVISI.0000029664.99615.94.pdf
