@@ -2,17 +2,13 @@
 ===
 
 # 1. Introduction
->>This repository is SIFT algorithm implemented by Matlab.
+>>This repository is original SIFT algorithm implemented by Matlab.
 
 # 2. Usage
-## 2.1 Environment
->>OS: Windows 10  
->>IDE: Matlab 2017a
-
-## 2.2 Run
+## 2.1 Run
 >>Run test.m with Matlab.
 
-## 2.3 Result
+## 2.2 Result
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/image_result.jpg)  
 ![image](https://github.com/lh9171338/SIFT/blob/master/image/lena_result.jpg)
 
