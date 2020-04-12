@@ -77,4 +77,3 @@ descriptor = descriptor(:)';
 
 %% Normalize
 descriptor = descriptor / norm(descriptor);
-descriptor = uint8(descriptor * 255);

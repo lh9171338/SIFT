@@ -17,12 +17,12 @@ x0 = pt(1);
 y0 = pt(2);
 [rows,cols] = size(image);
 for i=-radius:radius
-    y = y0+i;
+    y = y0 + i;
     if y <= 1 || y >= rows
         continue;
     end
     for j=-radius:radius
-        x = x0+j;
+        x = x0 + j;
         if x <= 1 || x >= cols
             continue;
         end
